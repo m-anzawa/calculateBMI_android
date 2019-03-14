@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">calculateBMI_android</string>
+
+    <string name="input_text">入力</string>
+    <string name="history_text">履歴</string>
+    <string name="instruction_message">身長と体重を入力してください</string>
+    <string name="stature_text">身長</string>
+    <string name="weight_text">体重</string>
+    <string name="stature_label">身長:</string>
+    <string name="weight_label">体重:</string>
+    <string name="bmi_label">BMI:</string>
+    <string name="cm_text">cm</string>
+    <string name="kg_text">kg</string>
+    <string name="calculation_text">BMIを計算する</string>
+    <string name="message_text1">あなたのBMIは</string>
+    <string name="message_text3">でした</string>
+    <string name="hint_text">言い訳を書きたければ書いてください</string>
+    <string name="delete_text">削除</string>
+    <string name="save_text">保存する</string>
+
+</resources>
